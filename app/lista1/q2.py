@@ -1,0 +1,7 @@
+print("Q2")
+print ("Informe sua quantia valor em reais:")
+qreais = float (input ())
+print ("Informe a cotação em dolar:")
+COTdolar = float (input ())
+qdolar = float ((qreais) / (COTdolar))
+print (("Você possue a quantia de "), (qdolar),("Dolar(es) em reais"))
